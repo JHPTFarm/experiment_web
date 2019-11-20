@@ -1,0 +1,21 @@
+body {
+  margin: unset;
+  background-color: gray;
+}
+
+ul {
+  padding: unset;
+  margin: unset;
+}
+
+li {
+  list-style: none;
+  list-style-type: none;
+}
+
+a {
+  &:visited, &:link, &:hover, &:active {
+    color: inherit;
+    text-decoration: none;
+  }
+}

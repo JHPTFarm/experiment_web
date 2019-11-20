@@ -1,0 +1,12 @@
+**/.DS_Store
+**/node_modules
+**/build
+**/dist
+**/temp
+**/*.pem
+**/Dockerfile*
+**/docker*
+**/serverlessAPI
+**/nginx
+web-frontend/public
+web-frontend/server.js
